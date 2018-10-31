@@ -10,3 +10,4 @@
 - 在Maya里修改属性
 - 从script editor里扒出操作过程代码
 - 用pymel代替cmds
+
