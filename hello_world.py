@@ -3,8 +3,8 @@
 
 
 def hello_world():
-    # TODO: 实现这个函数
-    pass
+    # 实现了这个函数
+    print("hello world.")
 
 
 if __name__ == "__main__":
